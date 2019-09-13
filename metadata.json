@@ -1,0 +1,15 @@
+{
+  "type": "application",
+  "name": "Tetris",
+  "category": "games",
+  "icon": "./icon.png",
+  "title": {
+    "en_EN": "Tetris"
+  },
+  "description": {
+    "en_EN": "Tetris"
+  },
+  "files": [
+    "main.js"
+  ]
+}
