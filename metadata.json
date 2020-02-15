@@ -4,10 +4,12 @@
   "category": "games",
   "icon": "./icon.png",
   "title": {
-    "en_EN": "Tetris"
+    "en_EN": "Tetris",
+    "pt_BR": "Tetris"
   },
   "description": {
-    "en_EN": "Tetris"
+    "en_EN": "Tetris",
+    "pt_BR": "Jogue o famoso Tetris"
   },
   "files": [
     "main.js"
