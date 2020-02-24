@@ -32,7 +32,7 @@
     "simple-tetris": "^1.2.0"
   },
   "devDependencies": {
-    "@osjs/dev-meta": "^1.0.2"
+    "@osjs/dev-meta": "^1.0.3"
   },
   "osjs": {
     "type": "package"
